@@ -1,0 +1,16 @@
+﻿{
+  "versions": [
+    {
+      "hardware": 6,
+      "software": "6.99.14"
+    },
+    {
+      "hardware": 4,
+      "software": "4.23.10"
+    },
+    {
+      "hardware": 3,
+      "software": "3.22.78"
+    }
+  ]
+}
